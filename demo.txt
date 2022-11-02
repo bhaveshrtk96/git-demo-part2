@@ -1,3 +1,4 @@
 Sample git traning. Checking.
 Adding some Content from test Branch
 To push to test of originnew
+collaborator
