@@ -7,3 +7,4 @@ line 6 Main
 line 7 Main
 line 6 from test
 line 7 from test amend
+line 10 from test
