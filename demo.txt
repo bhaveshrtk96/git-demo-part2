@@ -13,4 +13,5 @@ line 10 from test
 rebase Test 1
 rebase Test 2
 rebase main 1
+rebase main 2
 
