@@ -10,4 +10,4 @@ line 7 from test amend
 line 10 from main for rebase
 line 11 from main for rebase
 line 10 from test
-
+rebase Test 1
