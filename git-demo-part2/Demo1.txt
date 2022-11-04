@@ -7,3 +7,4 @@ Demo line 6 from Test Branch, ammend 4th commit.
 Demo line 7 from main Branch amend again and Force push, again.
 Demo line 8 To amend after push, Amending it after push.
 Demo 9, amend before push
+Demo 10 +amendF, +amend
